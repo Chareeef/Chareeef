@@ -15,6 +15,8 @@ As an Alx - Software Engineering student, my aim is to make a meaningful impact 
 
 - Achieved printf project : https://github.com/Chareeef/printf
 - Achieved simple_shell project : https://github.com/Chareeef/simple_shell 
+- Achieved Tic-Tac-Toe with AI project : https://github.com/Chareeef/tic-tac-toe_AI
+- Achieved Hangman Game project : https://github.com/Chareeef/Hangman_Game
 
 ## Contact Information 
 
