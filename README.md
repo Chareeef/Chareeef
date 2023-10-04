@@ -1,4 +1,4 @@
-90# Hi there! 👋 I'm Youssef
+# Hi there! 👋 I'm Youssef
 
 
 As an Alx - Software Engineering student, my aim is to make a meaningful impact by creating software that can assist disabled individuals with their daily activities. This aspiration stems from my own experiences as someone with cerebral palsy who understands the challenges faced daily by people with disabilities. My academic background in mathematics and science, gained from a rigorous high school curriculum, has equipped me with the skills necessary to tackle complex problems with determination and perseverance.
@@ -8,8 +8,9 @@ As an Alx - Software Engineering student, my aim is to make a meaningful impact 
 
 - C
 - Python
-- Shell
-- Git 
+- Shell Scripting
+- Git
+- Github
 
 ## Contributions and Achievements 
 
