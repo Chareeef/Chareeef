@@ -6,8 +6,12 @@ As an Alx - Software Engineering student, my aim is to make a meaningful impact 
 
 ## Skills and Technologies 
 
-- C
 - Python
+- Javascript
+- HTML/CSS
+- C
+- MySQL
+- SQLAlchemy
 - Shell Scripting
 - Git
 - Github
