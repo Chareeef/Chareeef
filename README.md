@@ -4,24 +4,38 @@ As a passionate Alx - Software Engineering student, I am on a mission to transfo
 
 ## Skills and Technologies 
 
-- Python
-- Flask
-- Javascript
-- HTML/CSS
-- C
-- MySQL
-- SQLAlchemy
-- Shell Scripting
-- Git
-- Github
+- **Programming Languages:** 
+  - Python
+  - JavaScript
+  - C
+  - Shell Scripting
+
+- **Web Development:** 
+  - Flask
+  - HTML/CSS
+
+- **Databases:** 
+  - MySQL
+  - SQLAlchemy
+
+- **Server Management:** 
+  - Nginx
+  - HAProxy
+  - ufw
+
+- **Version Control:** 
+  - Git
+  - Github
+
+Certainly! Here's an organized and visually appealing version of your contributions, achievements, and contact information:
 
 ## Contributions and Achievements 
 
-- Achieved Hayat project, a Blood Donation Website : https://github.com/Chareeef/HAYAT 
-- Achieved simple_shell project : https://github.com/Chareeef/simple_shell 
-- Achieved printf project : https://github.com/Chareeef/printf
-- Achieved Tic-Tac-Toe with AI project : https://github.com/Chareeef/tic-tac-toe_AI
-- Achieved Hangman Game project : https://github.com/Chareeef/Hangman_Game
+- [Hayat Project](https://github.com/Chareeef/HAYAT): A Blood Donation Website
+- [Simple Shell Project](https://github.com/Chareeef/simple_shell): A custom Unix shell implementation
+- [Printf Project](https://github.com/Chareeef/printf): Custom printf function implementation
+- [Tic-Tac-Toe with AI Project](https://github.com/Chareeef/tic-tac-toe_AI): A Tic-Tac-Toe game with AI opponent
+- [Hangman Game Project](https://github.com/Chareeef/Hangman_Game): A classic Hangman game implementation
 
 ## Contact Information 
 
@@ -29,7 +43,7 @@ As a passionate Alx - Software Engineering student, I am on a mission to transfo
 
 ⚫ X: [@YoussefCharifH2](https://x.com/YoussefCharifH2) 
 
-🔵 LinkedIn: [@youssef-charif-hamidi](https://www.linkedin.com/youssef-charif-hamidi) 
+🔵 LinkedIn: [@youssef-charif-hamidi](https://www.linkedin.com/youssef-charif-hamidi)
 
 ## Badges and Statistics 
 
