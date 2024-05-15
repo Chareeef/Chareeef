@@ -10,13 +10,14 @@ As a passionate Software Engineer, I am on a mission to transform lives through 
   - C
   - Shell Scripting
 
-- **Web Development:** 
+- **Frameworks:** 
   - Flask
-  - HTML/CSS
+  - Express
 
 - **Databases:** 
-  - MySQL
-  - SQLAlchemy
+  - MySQL   
+  - MongoDB
+  - Redis
 
 - **Server Management:** 
   - Nginx
@@ -32,7 +33,7 @@ Certainly! Here's an organized and visually appealing version of your contributi
 ## Contributions and Achievements 
 
 - [Hayat](https://github.com/Chareeef/HAYAT): A Blood Donation Website built with Flask and MySQL 
-- [File Manager](https://github.com/Chareeef/alx-file_manager): An Express app for files management with MongoDB and Redis 
+- [File Manager](https://github.com/Chareeef/alx-files_manager): An Express app for files management with MongoDB and Redis 
 - [Simple Shell](https://github.com/Chareeef/simple_shell): A custom Unix shell implementation in C
 - [Printf](https://github.com/Chareeef/printf): Custom printf function implementation in C
 - [Tic-Tac-Toe Game](https://github.com/Chareeef/tic-tac-toe_AI): A Tic-Tac-Toe game with AI opponent implemented in Python
