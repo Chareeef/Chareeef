@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Youssef
+# Hello! I'm Youssef 😁🍁 
 
-As a passionate Software Engineer, I am on a mission to transform lives through the power of technology. Inspired by my own journey with cerebral palsy, I am driven to develop software solutions that empower individuals, particularly those with special needs, to thrive and find joy in their everyday experiences. I believe that by harnessing innovation and empathy, we can build a more inclusive world where everyone has the opportunity to flourish. Join me in making a difference, one line of code at a time.
+As a passionate Software Engineer, I am on a mission to transform lives through the power of technology. Inspired by my own journey with cerebral palsy, I am driven to develop software solutions that empower individuals, particularly those with special needs, to thrive and find joy in their everyday experiences. I believe that by harnessing innovation and empathy, we can build a more inclusive world where everyone has the opportunity to flourish. Join me in making a difference, one line of code at a time. 😉
 
 ## Skills and Technologies 
 
@@ -26,7 +26,7 @@ As a passionate Software Engineer, I am on a mission to transform lives through 
 
 ## Contributions and Achievements 
 
-- [CodeLog](https://github.com/Chareeef/CodeLog): A Journaling Web Application for Developers built with Flask, MongoDB, React...
+- [CodeLog](https://github.com/Chareeef/CodeLog): A Journaling Web Application for Developers built with Flask, MongoDB, React, Redis...
 - [Hayat](https://github.com/Chareeef/HAYAT): A Blood Donation Website built with Flask and MySQL 
 - [File Manager](https://github.com/Chareeef/alx-files_manager): An Express app for files management with MongoDB and Redis 
 - [Simple Shell](https://github.com/Chareeef/simple_shell): A custom Unix shell implementation in C
