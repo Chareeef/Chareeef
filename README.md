@@ -24,14 +24,9 @@ As a passionate Software Engineer, I am on a mission to transform lives through 
   - HAProxy
   - ufw
 
-- **Version Control:** 
-  - Git
-  - Github
-
-Certainly! Here's an organized and visually appealing version of your contributions, achievements, and contact information:
-
 ## Contributions and Achievements 
 
+- [CodeLog](https://github.com/Chareeef/CodeLog): A Journaling Web Application for Developers built with Flask, MongoDB, React...
 - [Hayat](https://github.com/Chareeef/HAYAT): A Blood Donation Website built with Flask and MySQL 
 - [File Manager](https://github.com/Chareeef/alx-files_manager): An Express app for files management with MongoDB and Redis 
 - [Simple Shell](https://github.com/Chareeef/simple_shell): A custom Unix shell implementation in C
