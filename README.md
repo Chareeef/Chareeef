@@ -6,33 +6,38 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ## 🚀 Skills & Technologies
 
-**Languages:**
+- **Languages:**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Frameworks:**
+- **Frameworks:**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Databases:**
+- **Databases:**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-**AI Tools:**
-![Groq](https://img.shields.io/badge/Groq-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-EC1C24?style=for-the-badge&logo=ai)
+- **AI Tools:**
+
+![Groq AI](https://img.shields.io/badge/Groq_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cohere AI](https://img.shields.io/badge/Cohere_AI-EC1C24?style=for-the-badge&logo=ai)
 ![Pinecone](https://img.shields.io/badge/Pinecone-2688FF?style=for-the-badge&logo=pinecone&logoColor=white)
 
-**DevOps:**
+- **DevOps:**
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-0000F2?style=for-the-badge)
 ![UFW](https://img.shields.io/badge/UFW-6A1B9A?style=for-the-badge)
@@ -77,8 +82,8 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ## 📞 Contact Information
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.charif.h@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-charif-hamidi)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.charif.h@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-charif-hamidi) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YoussefCharifH2)
 
 ---
