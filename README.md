@@ -1,7 +1,3 @@
-Here's the updated README with your requested changes:
-
----
-
 # Hello! I'm Youssef 😁🍁
 
 As a passionate **Software Engineer**, I'm on a mission to transform lives through the power of technology. Inspired by my personal journey with **cerebral palsy**, I'm driven to create software solutions that empower individuals, especially those with special needs, to thrive. By combining innovation with empathy, I'm committed to building a more inclusive world where everyone can flourish. Let's make a difference, one line of code at a time. 😉
@@ -21,8 +17,8 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -81,17 +77,13 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ## 📞 Contact Information
 
-📧 youssef.charif.h@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-charif-hamidi): https://linkedin.com/in/youssef-charif-hamidi 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YoussefCharifH2): https://x.com/YoussefCharifH2
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.charif.h@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-charif-hamidi)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YoussefCharifH2)
 
 ---
 
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chareeef&layout=compact)](https://github.com/Chareeef)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Chareeef)  
-
----
-
-This should now reflect all the changes, including PostgreSQL, project renaming, and the LinkedIn/X icons for contact. Let me know if you'd like further adjustments!
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Chareeef)
