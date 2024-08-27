@@ -1,3 +1,7 @@
+Here's the updated README with your requested changes:
+
+---
+
 # Hello! I'm Youssef 😁🍁
 
 As a passionate **Software Engineer**, I'm on a mission to transform lives through the power of technology. Inspired by my personal journey with **cerebral palsy**, I'm driven to create software solutions that empower individuals, especially those with special needs, to thrive. By combining innovation with empathy, I'm committed to building a more inclusive world where everyone can flourish. Let's make a difference, one line of code at a time. 😉
@@ -9,18 +13,21 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Frameworks:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
@@ -29,14 +36,16 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 ![Cohere](https://img.shields.io/badge/Cohere-EC1C24?style=for-the-badge&logo=ai)
 ![Pinecone](https://img.shields.io/badge/Pinecone-2688FF?style=for-the-badge&logo=pinecone&logoColor=white)
 
-**Server Management:**
+**DevOps:**
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-0000F2?style=for-the-badge)
 ![UFW](https://img.shields.io/badge/UFW-6A1B9A?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ---
 
-## 💻 Notable Projects
+## 🌠 Notable Projects
 
 ### 🌟 [Rate My Professor](https://rate-my-professor-murex.vercel.app) 
 > **AI-Powered Platform** for Professor Recommendations  
@@ -60,7 +69,7 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ---
 
-## 🏅 Contributions & Achievements
+## 💻 Another Projects
 
 - **[Simple Shell](https://github.com/Chareeef/simple_shell):** Custom Unix shell in C.
 - **[Printf](https://github.com/Chareeef/printf):** Implementation of a custom printf function in C.
@@ -72,9 +81,9 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ## 📞 Contact Information
 
-📧 **Email:** youssef.charif.h@gmail.com  
-🟦 **LinkedIn:** [@youssef-charif-hamidi](https://www.linkedin.com/in/youssef-charif-hamidi)  
-⚫ **X (Twitter):** [@YoussefCharifH2](https://x.com/YoussefCharifH2)
+📧 youssef.charif.h@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-charif-hamidi): https://linkedin.com/in/youssef-charif-hamidi 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YoussefCharifH2): https://x.com/YoussefCharifH2
 
 ---
 
@@ -83,3 +92,6 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chareeef&layout=compact)](https://github.com/Chareeef)  
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Chareeef)  
 
+---
+
+This should now reflect all the changes, including PostgreSQL, project renaming, and the LinkedIn/X icons for contact. Let me know if you'd like further adjustments!
