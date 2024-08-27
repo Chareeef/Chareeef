@@ -47,7 +47,7 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ---
 
-## 🌠 Notable Projects
+## 🌠 Top Projects
 
 ### 🌟 [Rate My Professor](https://rate-my-professor-murex.vercel.app) 
 > **AI-Powered Platform** for Professor Recommendations  
@@ -71,7 +71,7 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ---
 
-## 💻 Another Projects
+## 💻 Other Projects
 
 - **[Simple Shell](https://github.com/Chareeef/simple_shell):** Custom Unix shell in C.
 - **[Printf](https://github.com/Chareeef/printf):** Implementation of a custom printf function in C.
