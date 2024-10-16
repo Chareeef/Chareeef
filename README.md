@@ -57,17 +57,17 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ### 👨‍🏫 [Rate My Professor](https://rate-my-professor-murex.vercel.app) 
 > **AI-Powered Platform for Professor Recommendations**
-- Tech: Next.js, Tailwind CSS, Cohere, Pinecone, Groq API  
+- Tech: Next.js, Tailwind CSS, Cohere, Pinecone, Groq AI  
 - Personalized professor matches and reviews, AI-driven user interactions.
 
 ### 📘 [MemFlip](https://mem-flip.live) 
 > **AI-Powered Flashcard App**  
-- Tech: Next.js, Tailwind CSS, Groq API, Firestore  
+- Tech: Next.js, Tailwind CSS, Groq AI, Firestore  
 - Generate, save, and review flashcards for a personalized learning experience.
 
 ### 🤖 [Sadim AI](https://sadim-ai.com)
 > **AI-Powered Chatbot**  
-- Tech: Next.js, Groq API, NextAuth  
+- Tech: Next.js, Groq AI, NextAuth  
 - Provides human-like conversations with a seamless interface across devices.
 
 ### 📝 [CodeLog](https://code-log.site)
