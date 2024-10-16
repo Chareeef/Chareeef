@@ -49,8 +49,14 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 
 ## 🌠 Top Projects
 
-### 🌟 [Rate My Professor](https://rate-my-professor-murex.vercel.app) 
-> **AI-Powered Platform** for Professor Recommendations  
+### 👨‍💻 [Get A Gig](https://get-a-gig.vercel.app)
+> **AI-Powered Remote Tech Job Search Platform**
+
+- Tech: Next.js, Tailwind CSS, Prisma, PostgreSQL, NextAuth, Groq AI 
+- Curated remote jobs for software engineers, with AI-powered cover letter generation and seamless job application.
+
+### 👨‍🏫 [Rate My Professor](https://rate-my-professor-murex.vercel.app) 
+> **AI-Powered Platform for Professor Recommendations**
 - Tech: Next.js, Tailwind CSS, Cohere, Pinecone, Groq API  
 - Personalized professor matches and reviews, AI-driven user interactions.
 
