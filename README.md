@@ -92,10 +92,3 @@ As a passionate **Software Engineer**, I'm on a mission to transform lives throu
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.charif.h@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-charif-hamidi) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YoussefCharifH2)
-
----
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chareeef&layout=compact)](https://github.com/Chareeef)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Chareeef)
