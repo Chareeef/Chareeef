@@ -1,4 +1,4 @@
-# Hello! I'm Youssef 😁🍁
+# Hello! I'm Youssef 😁
 
 As a passionate **Software Engineer**, I'm on a mission to transform lives through the power of technology. Inspired by my personal journey with **cerebral palsy**, I'm driven to create software solutions that empower individuals, especially those with special needs, to thrive. By combining innovation with empathy, I'm committed to building a more inclusive world where everyone can flourish. Let's make a difference, one line of code at a time. 😉
 
