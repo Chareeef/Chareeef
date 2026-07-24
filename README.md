@@ -1,8 +1,6 @@
 # Hi, I'm Youssef 👋
 
-**Software Engineer · Full-Stack Developer · Product Builder**
-
-I build production web and mobile applications from architecture to deployment.
+**Building software that empowers people through accessibility and AI.**
 
 My work includes a remote-job platform that reached **1M+ impressions, 40K+ clicks, and 200+ daily active users within its first month**, as well as a structured mathematics editor published on Google Play.
 
