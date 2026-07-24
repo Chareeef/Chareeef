@@ -31,13 +31,14 @@ A production platform helping software engineers discover remote job opportuniti
 
 ## [MathVellum](https://play.google.com/store/apps/details?id=com.mathvellum.app)
 
-A privacy-first Flutter application for writing complex mathematics using a custom keyboard and structured editor.
+A Flutter application for writing complex mathematics with a standard QWERTY keyboard, intuitive shortcuts, and a structured editor.
 
 Originally designed to enable people with motor disabilities who cannot use pen and paper to write mathematics independently, MathVellum provides an accessible way to create, edit, and export complex mathematical notation.
 
-- Built a structured mathematical-expression engine supporting fractions, roots, integrals, limits, sums, powers, and subscripts
-- Engineered nested cursor movement, text selection, configurable shortcuts, and interactive expression editing
-- Added LaTeX conversion and vector PDF export
+- Built the core expression engine and rendering system behind a fully interactive mathematical editor.
+- Implemented a configurable shortcut parser, nested cursor model, and structured editing system for seamless keyboard-first input.
+- Developed a LaTeX conversion engine enabling accurate translation between structured expressions and LaTeX source.
+- Implemented vector PDF export with high-quality mathematical typesetting, allowing users to generate publication-ready documents directly from their notes.
 - Implemented offline persistence, auto-save, multilingual support, and fully local processing
 - Published on **Google Play**
 
