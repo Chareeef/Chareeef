@@ -193,7 +193,7 @@ I'm especially passionate about:
 - ⚙️ Backend engineering and scalable systems
 - 📱 Cross-platform mobile development
 
-My long-term mission is to create technology that gives people—especially people with disabilities—greater independence, opportunity, and freedom.
+My long-term mission is to create technology that gives people – especially people with disabilities – greater independence, opportunity, and freedom.
 
 ---
 
