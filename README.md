@@ -43,7 +43,7 @@ Originally designed to enable people with motor disabilities who cannot use pen 
 - Implemented offline persistence, auto-save, multilingual support, and fully local processing
 - Published on **Google Play**
 
-**Tech:** Flutter, Dart, Android, LaTeX, PDF generation
+**Tech:** Flutter, Dart, LaTeX
 
 ---
 
