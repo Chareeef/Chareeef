@@ -128,35 +128,45 @@ An AI-powered study application for generating, organizing, saving, and reviewin
 
 ---
 
-# 🧰 Other Projects
+# 🧰 Other high-value projects
+
+### [CodeLog](https://github.com/Chareeef/CodeLog)
+
+A journaling platform for software engineers to record daily progress, maintain coding streaks and engage with the community through posts, comments and likes.
+
+Built in collaboration with [Mohamed Lamine Boukhalfa](https://www.linkedin.com/in/mohamed-lamine-boukhalfa), [Khadija Ghadi](https://www.linkedin.com/in/khadija-ghadi-017737193) and [Harriet M Mugendi](https://www.linkedin.com/in/harriet-m-mugendi-149a006b).
+
+**Tech:** React, Flask, MongoDB, Redis, JWT, Nginx
+
+---
+
+### [Solana Arbitrage Bot](https://github.com/Chareeef/solana-copy-trading-bot)
+
+A low-latency Solana arbitrage system built to stream on-chain activity, route across major AMMs and execute opportunities quickly with optimised transaction delivery and automated risk controls.
+
+Built in collaboration with [Abdelrahman Hany Metawei](https://www.linkedin.com/in/abduhany) and [Julien Barbier](https://www.linkedin.com/in/julienbarbier).
+
+**Tech:** Rust, Tokio, Solana SDK, Yellowstone gRPC, Raydium, Meteora, Jupiter
+
+**Medium article:** https://medium.com/@abdu.hany/building-a-solana-copy-trading-bot-from-our-first-lines-of-rust-to-profitable-automation-ad4f9377a400
+
+---
+
+### [Hayat](https://github.com/Chareeef/HAYAT)
+
+A blood-donation platform connecting donors with transfusion centres, making it easier to discover nearby centres and view their blood inventory needs.
+
+Built in collaboration with [Blain Muema](https://www.linkedin.com/in/blain-muema) and [Kenansa Meseret Nigusie](https://www.linkedin.com/in/kenc0de).
+
+**Tech:** Flask, MySQL, SQLAlchemy, JavaScript, Nginx, HAProxy
+
+---
 
 ### [Simple Shell](https://github.com/Chareeef/simple_shell)
 
-A Unix command-line interpreter written in C supporting process creation, built-in commands, and environment management.
+A Unix command interpreter built from scratch with process execution, PATH resolution, environment-variable handling and careful memory management.
 
----
-
-### [Printf](https://github.com/Chareeef/printf)
-
-A complete reimplementation of the C `printf` function supporting formatted output and variadic arguments.
-
----
-
-### [File Manager](https://github.com/Chareeef/alx-files_manager)
-
-A backend file-management service built with Express.js, MongoDB, Redis, and asynchronous workers.
-
----
-
-### [Tic-Tac-Toe AI](https://github.com/Chareeef/tic-tac-toe_AI)
-
-A Python implementation of Tic-Tac-Toe featuring an AI opponent using the Minimax algorithm.
-
----
-
-### [Hangman Game](https://github.com/Chareeef/Hangman_Game)
-
-A command-line Hangman game developed in Python.
+**Tech:** C, GCC, Unix, Valgrind
 
 ---
 
@@ -164,14 +174,7 @@ A command-line Hangman game developed in Python.
 
 ## ALX Software Engineering
 
-Completed an intensive 12-month Software Engineering program covering:
-
-- Systems Programming
-- Algorithms & Data Structures
-- Backend Development
-- Databases
-- Linux
-- DevOps
+Completed a 12-month programme spanning C and Unix programming, full-stack development, databases, algorithms, Linux and DevOps. Its peer-learning and project-based approach strengthened my habit of learning by building while developing autonomy and a strong teamwork mindset.
 
 🏆 Recognized as an **ALX Community Champion** for advancing disability inclusion in technology.
 
