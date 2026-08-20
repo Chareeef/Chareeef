@@ -115,7 +115,7 @@ An AI-powered study application for generating, organizing, saving, and reviewin
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge)
 ![HAProxy](https://img.shields.io/badge/HAProxy-1A1A1A?style=for-the-badge)
 
 ## AI & Developer Tools
@@ -140,13 +140,15 @@ Built in collaboration with [Mohamed Lamine Boukhalfa](https://www.linkedin.com/
 
 ---
 
-### [Solana Arbitrage Bot](https://github.com/Chareeef/solana-copy-trading-bot)
+### [Solana Copy-Trading Bot](https://github.com/Chareeef/solana-copy-trading-bot)
 
-A low-latency Solana arbitrage system built to stream on-chain activity, route across major AMMs and execute opportunities quickly with optimised transaction delivery and automated risk controls.
+A Solana copy-trading system that monitored selected wallets in real time, reconstructed swaps across Pump.fun, Raydium, Meteora and Jupiter, and combined low-latency transaction delivery with automated take-profit and stop-loss exits.
+
+After several iterations, the bot became profitable and served as our production-grade introduction to Rust and Solana.
 
 Built in collaboration with [Abdelrahman Hany Metawei](https://www.linkedin.com/in/abduhany) and [Julien Barbier](https://www.linkedin.com/in/julienbarbier).
 
-**Tech:** Rust, Tokio, Solana SDK, Yellowstone gRPC, Raydium, Meteora, Jupiter
+**Tech:** Rust, Tokio, Solana SDK, Yellowstone gRPC, Raydium, Meteora, Jupiter, SWQoS
 
 **Medium article:** https://medium.com/@abdu.hany/building-a-solana-copy-trading-bot-from-our-first-lines-of-rust-to-profitable-automation-ad4f9377a400
 
